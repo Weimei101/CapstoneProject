@@ -127,7 +127,7 @@
                   </a>
                   <h4>Trouble</h4>
                   <p>
-                    will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
+                    We'll find solution to your problems.
                   </p>
                 </div>
               </div>
